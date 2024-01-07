@@ -1,2 +1,5 @@
-# ZMO-medical-image-generation
-Repo for the ZMO semestral project.
+# Fake MRI brain scan generation using GANs
+
+This is the repository of a semestral project. 
+Required files can be downloaded from https://www.med.upenn.edu/sbia/brats2017.html
+Provided are model weights for the discriminator and generator after 100 epochs.
